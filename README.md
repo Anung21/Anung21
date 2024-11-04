@@ -27,6 +27,5 @@
 
 ![Anung21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anung21&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ![Anung21's Stats](https://github-readme-stats.vercel.app/api?username=Anung21&theme=outrun&show_icons=true&hide_border=false&count_private=true)
-![Anung21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anung21&theme=outrun&hide_border=false)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anung21&theme=highcontrast&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
